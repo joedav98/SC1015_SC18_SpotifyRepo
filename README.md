@@ -2,8 +2,15 @@
 
 ## **Introduction**
 ---------
-**This objective of this project is to make use of spotify music data and find out if the Audio features of a song would result it in being a hit song.**
-**
+**This is a mini-project for SC1015 (Intro To Data Science & AI) which will be focusing on Spotify & Billboard
+Songs.**  
+
+
+## Problem Defintion 
+--------------
+* To find out whether a song can be considered a hit based on its **audio features**. 
+ 
+* Which **Models** would be **best** used for this prediction ? 
 
 ![Spotify Logo](https://i.pinimg.com/originals/49/fd/2a/49fd2a48daacf595d3916bf21d4222c8.png)
 
@@ -77,18 +84,15 @@
 
 ## **Contributions**
 ----------
-* Joel
-  * Nested Item 1
-  * Nested Item 2
+* **Joel**
+  * Data Processing
+  * EDA
  
-
-* Neo Wei
-  * Nested Item 1
-  * Nested Item 2
+* **Neo Wei**
+  * EDA
   
-* Joseph
-  * Nested Item 1
-  * Nested Item 2
+* **Joseph**
+  * Machine Learning
 
 ## **References**
 ---------
