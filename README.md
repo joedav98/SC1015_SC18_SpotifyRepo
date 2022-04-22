@@ -3,6 +3,7 @@
 ## **Introduction**
 ---------
 **This objective of this project is to make use of spotify music data and find out if the Audio features of a song would result it in being a hit song.**
+**
 
 ![Spotify Logo](https://i.pinimg.com/originals/49/fd/2a/49fd2a48daacf595d3916bf21d4222c8.png)
 
@@ -14,18 +15,17 @@
 * [**EDA**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/blob/main/spotify_eda.ipynb "spotify_eda.ipynb")
   * Exploring Trend of Audio Features
   * Audio Feature Correlation
-* [**Machine Learning**](http://www.traversymedia.com "Traversy Media")
+* [**Machine Learning**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/blob/main/spotify_machine_learning.ipynb"spotify_machine_learning.ipynb")
   * Performance Metrics
   * Supervised Learning Models
   * Evaluation
 
 
-## **Datasets**
+## [**Datasets**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/tree/main/data)
 -----
-* [**Hit Songs**](http://www.traversymedia.com)
-* [**Non - Hit Songs**](http://www.traversymedia.com)
-* [**Spotify Songs**](http://www.traversymedia.com)
-* 4
+* **Hit Songs**
+* **Non - Hit Songs**
+* **Spotify Songs**
 
 ## **Libraries**
 --------
