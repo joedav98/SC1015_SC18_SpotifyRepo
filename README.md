@@ -67,7 +67,7 @@ Songs.**
   
 * **Year** - The year the song was released in. 
   
-* **Weeks-on-board** - Number of weeks the song was on the Bill Board.
+* **Weeks-on-board** - Number of weeks the song was on the BillBoard.
   
 * **Charted** - Whether a song is a hit or non-hit.
 
