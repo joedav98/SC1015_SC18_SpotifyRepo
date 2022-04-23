@@ -38,9 +38,10 @@ Songs.**
 ## **Libraries**
 --------
 * Pandas
-* Matplot
+* Matplotlib
 * Seaborn
 * Numpy
+* SKlearn
 * Plotly
 
 ## **Audio Features** 
