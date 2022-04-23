@@ -96,7 +96,7 @@ Songs.**
   * Data Collection and Processing
   * EDA
  
-* **Neo Wei**
+* **Neo Wei (U2123800F)**
   * EDA
   
 * **Joseph Chng (U2122493C)**
