@@ -30,9 +30,10 @@ Songs.**
 
 ## [**Datasets**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/tree/main/data)
 -----
-* **Hit Songs**
-* **Non - Hit Songs**
-* **Spotify Songs**
+* **Non-Hit songs**
+* **Hits songs**
+* **Billboard Charts**
+* **2020-2021 songs**
 
 ## **Libraries**
 --------
@@ -74,29 +75,30 @@ Songs.**
 
 ## **Machine Learning Models**
 ---------------------
-* Logistic Regression
 * Multi-Variate Linear Regression
-* Random Forest
+* Logistic Regression
 * Decision Tree
-* K-Neighbors
-* Support Vector Classification
-* Guassian Naive Bayes 
+* Random Forest Regressor
+* Random Forest Classifier
+* K-Nearest Neighbors Classifier
+* Support Vector Machine Classifier
+* Guassian Naive Bayes Classifier
 
 ## **Cross-Validation Methods**
 * Grid Search Cross Validation (Random Forest Regressor)
 * Random Search Cross Validation (Random Forest Classifier)
-* Cross Validation Score (K-Nearest Neighbors)
+* Cross Validation Score (K-Nearest Neighbors Classifier)
 
 ## **Contributions**
 ----------
-* **Joel**
+* **Joel David Lim Jianyi (U2120396F)**
   * Data Collection and Processing
   * EDA
  
 * **Neo Wei**
   * EDA
   
-* **Joseph**
+* **Joseph Chng (U2122493C)**
   * Machine Learning
 
 ## **References**
