@@ -82,10 +82,15 @@ Songs.**
 * Support Vector Classification
 * Guassian Naive Bayes 
 
+## **Cross-Validation Methods**
+* Grid Search Cross Validation (Random Forest Regressor)
+* Random Search Cross Validation (Random Forest Classifier)
+* Cross Validation Score (K-Nearest Neighbors)
+
 ## **Contributions**
 ----------
 * **Joel**
-  * Data Processing
+  * Data Collection and Processing
   * EDA
  
 * **Neo Wei**
@@ -98,5 +103,8 @@ Songs.**
 ---------
 * [Spotify Audio Features](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features)
 * [Machine Learning Models](https://scikit-learn.org/stable/)
-* [Data Sets](https://www.kaggle.com/)
+* [Non-Hits Data Set](https://www.kaggle.com/datasets/luckey01/test-data-set)
+* [Hits Data Set](https://www.kaggle.com/datasets/theoverman/the-spotify-hit-predictor-dataset)
+* [Charts Data Set](https://www.kaggle.com/datasets/dhruvildave/spotify-charts)
+* [2020-2021 Data Set](https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021)
 
