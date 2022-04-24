@@ -7,10 +7,14 @@ Songs.**
 
 
 ## Problem Defintion 
---------------
-* To find out whether a song can be considered a hit based on its **audio features**. 
- 
-* Which **Models** would be **best** used for this prediction ? 
+--------------   
+Spotify is a digital music service that gives you access to millions of songs, and in 2021 has amassed 406 million active users, with 180 million premium subscribers.
+
+Many would probably be familiar with the [Spotify](https://spotifycharts.com/regional) and [Billboard](https://www.billboard.com/charts/) Charts. These lists are constantly evolving, and songs are added and taken off every day. 
+
+[Spotify's API](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features) also provides features for every song, with their integration of the echonest API
+
+We want to find out if audio features can be used to predict a hit song, and if so, which models work best.
 
 ![Spotify Logo](https://i.pinimg.com/originals/49/fd/2a/49fd2a48daacf595d3916bf21d4222c8.png)
 
