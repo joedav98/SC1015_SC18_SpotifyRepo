@@ -26,7 +26,7 @@ We want to find out if audio features can be used to predict a hit song, and if 
 * [**EDA**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/blob/main/spotify_eda.ipynb "spotify_eda.ipynb")
   * Exploring Trend of Audio Features
   * Audio Feature Correlation
-* [**Machine Learning**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/blob/main/spotify_machine_learning.ipynb"spotify_machine_learning.ipynb")
+* [**Machine Learning**](https://github.com/joedav98/SC1015_SC18_SpotifyRepo/blob/main/spotify_machine_learning.ipynb "spotify_machine_learning.ipynb")
   * Performance Metrics
   * Supervised Learning Models
   * Evaluation
@@ -67,7 +67,7 @@ We want to find out if audio features can be used to predict a hit song, and if 
 * **Liveness** - Detects the presence of an audience in the recording. Higher liveness values represent an increased probability that the track was performed live. 
   
 * **Valence** - Musical positiveness conveyed by a track.
-* 
+
 * **Tempo** - The overall estimated tempo of a track in beats per minute (BPM). 
   
 * **Duration_ms** - The track length in milliseconds.
